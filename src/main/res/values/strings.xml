@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutorial 2</string>
+    <string name="msg1">Here, I am a the text</string>
+    <string name="msg2">hello</string>
+    <string name="msg3"><![CDATA[<>!]]></string>
+
+</resources>
